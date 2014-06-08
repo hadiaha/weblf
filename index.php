@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Latief Foundation Wonosobo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Website latief Foundation Wonosobo">
+    <meta name="author" content="Hardi Agunadi">
     
     <!-- Principal styles -->
     <style type="text/css">
@@ -33,12 +33,12 @@
 
   <body> 
   
-  <ul id="colorchanger">      
+  <!--ul id="colorchanger">      
     <li><a class="colorbox colordefault" href="?theme=default" title="Default"></a></li>
     <li><a class="colorbox color1" href="?theme=blue" title="One"></a></li>
     <li><a class="colorbox color2" href="?theme=red" title="Two"></a></li>
     <li><a class="colorbox color3" href="?theme=gray" title="Three"></a></li>
-  </ul>
+  </ul-->
 
     <header>
 
@@ -783,35 +783,24 @@
 
     <!-- Copry -->
     <footer class="coopring">
-      <p>Copyright 2013 Folkin, Inc.</p>
+      <p>&copy Yayasan Latief Jakarta</p>
     </footer>
     <!-- Copry -->
 
       
-      <!-- ======================= JQuery libs =========================== -->
-        <!-- Always latest version of jQuery-->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>         
         <script>window.jQuery || document.write('<script src="js/jquery-1.9.1.min.js"><\/script>')</script>
-       <!--Nav-->
         <script type="text/javascript" src="js/nav/tinynav.js"></script>
         <script type="text/javascript" src="js/nav/jquery.nav.js" ></script>
         <script type="text/javascript" src="js/nav/jquery.sticky.js"></script>     
-        <!--Scroll-->      
         <script src="js/scroll/smooth-scroll.js" type="text/javascript"></script> 
-        <!--Lightbox--> 
         <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script> 
-        <!-- Carrousel -->
         <script src="js/modernizr.js"></script>
         <script defer src="js/jquery.flexslider.js"></script>  
-        <!-- Slide.js-->
         <script src="js/slide/responsiveslides.js"></script> 
-        <!--Totop-->
         <script type="text/javascript" src="js/totop/jquery.ui.totop.js" ></script>   
-        <!-- Bootstrap.js-->
         <script src="js/bootstrap.js"></script>
-        <!--fUNCTIONS-->
         <script type="text/javascript" src="js/jquery-func.js"></script>
-      <!-- ======================= End JQuery libs =========================== -->
 
     </body>
 </html>
