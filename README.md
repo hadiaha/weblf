@@ -12,12 +12,15 @@ weblf
 * Hadi
 
 
-###Halaman Utama :
-####Lis berita,
+### Halaman Utama :
+#### Lis berita,
 *Kategori berita
-####Info profil,
+
+#### Info profil,
 * STT tele
 * STIM
 * AKTAN
-####Data mahasiswa
-####Data dosen
+
+#### Data mahasiswa
+
+#### Data dosen
