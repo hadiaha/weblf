@@ -14,7 +14,7 @@ weblf
 
 ### Halaman Utama :
 #### Lis berita,
-*Kategori berita
+* Kategori berita
 
 #### Info profil,
 * STT tele
@@ -22,5 +22,5 @@ weblf
 * AKTAN
 
 #### Data mahasiswa
-
+	
 #### Data dosen
